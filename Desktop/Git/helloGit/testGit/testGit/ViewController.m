@@ -19,6 +19,7 @@
     NSLog(@"hello.git");
     NSLog(@"branchA");
     NSLog(@"tag2.0");
+    NSLog(@"fourth push");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
