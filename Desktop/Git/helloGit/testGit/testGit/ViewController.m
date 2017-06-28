@@ -20,6 +20,7 @@
     NSLog(@"branchA");
     NSLog(@"tag2.0");
     NSLog(@"fourth push");
+    NSLog(@"commit for github desktop");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
