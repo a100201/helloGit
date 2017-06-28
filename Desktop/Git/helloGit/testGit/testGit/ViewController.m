@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"hello.git");
     NSLog(@"branchA");
+    NSLog(@"tag2.0");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
