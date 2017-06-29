@@ -21,7 +21,7 @@
     NSLog(@"tag2.0");
     NSLog(@"fourth push");
     NSLog(@"commit for fifth");
-    self.view.backgroundColor = [UIColor greenColor];
+    self.view.backgroundColor = [UIColor yellowColor];
     NSLog(@"sixth");
     NSLog(@"7");
     NSLog(@"8");
