@@ -23,6 +23,7 @@
     NSLog(@"commit for fifth");
     self.view.backgroundColor = [UIColor redColor];
     NSLog(@"sixth");
+    NSLog(@"7");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
