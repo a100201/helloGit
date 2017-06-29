@@ -24,6 +24,7 @@
     self.view.backgroundColor = [UIColor greenColor];
     NSLog(@"sixth");
     NSLog(@"7");
+    NSLog(@"8");
 
     
     // Do any additional setup after loading the view, typically from a nib.
