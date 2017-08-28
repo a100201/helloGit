@@ -24,6 +24,10 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+-(void)back{
+    NSLog(@"I'm back!!!");
+}
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
