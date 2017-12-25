@@ -25,6 +25,7 @@
     NSLog(@"sixth");
     NSLog(@"7");
     NSLog(@"8");
+    NSLog(@"2017.12.25 update");
 
     
     // Do any additional setup after loading the view, typically from a nib.
